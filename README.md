@@ -8,7 +8,7 @@ The paper develops an algebraic and combinatorial framework for analyzing **comm
 
 ## Contents
 
-- **`GITHUB_code_spectral_clustering_Gremban.ipynb`**  
+- **`code_gremban_expansion_signed_networks.ipynb`**  
   Jupyter notebook with demonstrations from the paper:
   - Generation of signed degree–corrected stochastic block model (DC-SBM) networks.  
   - Construction of the Gremban expansion for adjacency matrices and graphs.  
@@ -17,7 +17,7 @@ The paper develops an algebraic and combinatorial framework for analyzing **comm
   - Visualizations of original vs. expanded graphs and spectral embeddings.
   - Diffusive dynamics on original and expanded graphs. 
 
-- **`GITHUB_util.py`**  
+- **`util.py`**  
   Utility functions used in the notebook:
   - `generate_signed_dcsbm` — generate synthetic signed DC-SBM networks.  
   - `draw_network` — visualize signed networks with positive/negative edges and group markers.  
